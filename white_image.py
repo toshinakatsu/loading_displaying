@@ -1,5 +1,5 @@
 import cv2
- 
+
 # 画像の読み込み
 cv_img = cv2.imread('lena.jpg')
 
